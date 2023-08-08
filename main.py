@@ -5,7 +5,7 @@ from aiogram.filters import Command, Text
 from aiogram.types import Message
 
 
-API_TOKEN = '6219229354:AAHOjokG1UWqVKSi3t7zXygY2I1Cf4Ymqg8'
+API_TOKEN = ''
 
 # Создаем объекты бота и диспетчера
 bot: Bot = Bot(token=API_TOKEN)
